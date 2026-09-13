@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //dp solution
     int rec(int i , int j , vector<vector<int>>& dp , int m , int n)
     {
         if(i==m-1 && j==n-1) 
