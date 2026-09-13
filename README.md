@@ -14,6 +14,8 @@ My solutions to LeetCode problems in C++, organized by topic.
 | Frog Jump II | Dynamic Programming | C++ |
 | House Robber | Dynamic Programming | C++ |
 | House Robber II | Dynamic Programming | C++ |
+| Grid Uniques Paths | Dynamic Programming | C++ |
+| Uniques Paths II | Dynamic Programming | C++ |
 
 ## Goal
 
