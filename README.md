@@ -16,6 +16,9 @@ My solutions to LeetCode problems in C++, organized by topic.
 | House Robber II | Dynamic Programming | C++ |
 | Grid Uniques Paths | Dynamic Programming | C++ |
 | Uniques Paths II | Dynamic Programming | C++ |
+| Ninja Technique | Dynamic Programming | C++ |
+| Min Falling Path | Dynamic Programming | C++ |
+| Triangle Min Sum | Dynamic Programming | C++ |
 
 ## Goal
 
