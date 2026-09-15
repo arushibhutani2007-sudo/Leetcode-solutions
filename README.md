@@ -27,5 +27,3 @@ Data Structures and Algorithms skills and prepare for technical interviews.
 
 ## Branch Practise
 Learning Git branches and pull requests.
- ## dd
- ddd
